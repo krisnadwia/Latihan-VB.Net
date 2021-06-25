@@ -1,0 +1,12 @@
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\bin\Debug\DateTimeCalculation.exe.config
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\bin\Debug\DateTimeCalculation.exe
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\bin\Debug\DateTimeCalculation.pdb
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\bin\Debug\DateTimeCalculation.xml
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\obj\Debug\DateTimeCalculation.vbprojAssemblyReference.cache
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\obj\Debug\DateTimeCalculation.Form1.resources
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\obj\Debug\DateTimeCalculation.Resources.resources
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\obj\Debug\DateTimeCalculation.vbproj.GenerateResource.cache
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\obj\Debug\DateTimeCalculation.vbproj.CoreCompileInputs.cache
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\obj\Debug\DateTimeCalculation.exe
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\obj\Debug\DateTimeCalculation.xml
+C:\Users\krisn\source\repos\DateTimeCalculation\DateTimeCalculation\obj\Debug\DateTimeCalculation.pdb

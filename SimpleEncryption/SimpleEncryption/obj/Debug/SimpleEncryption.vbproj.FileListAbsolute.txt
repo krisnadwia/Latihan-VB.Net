@@ -1,0 +1,12 @@
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\bin\Debug\SimpleEncryption.exe.config
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\bin\Debug\SimpleEncryption.exe
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\bin\Debug\SimpleEncryption.pdb
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\bin\Debug\SimpleEncryption.xml
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.vbprojAssemblyReference.cache
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.frmEncryption.resources
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.Resources.resources
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.vbproj.GenerateResource.cache
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.vbproj.CoreCompileInputs.cache
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.exe
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.xml
+C:\Users\krisn\source\repos\SimpleEncryption\SimpleEncryption\obj\Debug\SimpleEncryption.pdb

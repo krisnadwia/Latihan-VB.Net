@@ -1,0 +1,12 @@
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\bin\Debug\IPAddressFinder.exe.config
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\bin\Debug\IPAddressFinder.exe
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\bin\Debug\IPAddressFinder.pdb
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\bin\Debug\IPAddressFinder.xml
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\obj\Debug\IPAddressFinder.vbprojAssemblyReference.cache
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\obj\Debug\IPAddressFinder.Form1.resources
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\obj\Debug\IPAddressFinder.Resources.resources
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\obj\Debug\IPAddressFinder.vbproj.GenerateResource.cache
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\obj\Debug\IPAddressFinder.vbproj.CoreCompileInputs.cache
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\obj\Debug\IPAddressFinder.exe
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\obj\Debug\IPAddressFinder.xml
+C:\Users\krisn\source\repos\IPAddressFinder\IPAddressFinder\obj\Debug\IPAddressFinder.pdb

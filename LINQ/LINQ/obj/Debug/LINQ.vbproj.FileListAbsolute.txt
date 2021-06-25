@@ -1,0 +1,12 @@
+C:\Users\krisn\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\krisn\source\repos\LINQ\LINQ\bin\Debug\LINQ.exe
+C:\Users\krisn\source\repos\LINQ\LINQ\bin\Debug\LINQ.pdb
+C:\Users\krisn\source\repos\LINQ\LINQ\bin\Debug\LINQ.xml
+C:\Users\krisn\source\repos\LINQ\LINQ\obj\Debug\LINQ.vbprojAssemblyReference.cache
+C:\Users\krisn\source\repos\LINQ\LINQ\obj\Debug\LINQ.Form1.resources
+C:\Users\krisn\source\repos\LINQ\LINQ\obj\Debug\LINQ.Resources.resources
+C:\Users\krisn\source\repos\LINQ\LINQ\obj\Debug\LINQ.vbproj.GenerateResource.cache
+C:\Users\krisn\source\repos\LINQ\LINQ\obj\Debug\LINQ.vbproj.CoreCompileInputs.cache
+C:\Users\krisn\source\repos\LINQ\LINQ\obj\Debug\LINQ.exe
+C:\Users\krisn\source\repos\LINQ\LINQ\obj\Debug\LINQ.xml
+C:\Users\krisn\source\repos\LINQ\LINQ\obj\Debug\LINQ.pdb
